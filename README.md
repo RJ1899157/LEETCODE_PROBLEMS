@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
