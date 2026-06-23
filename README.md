@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [1480-running-sum-of-1d-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -149,9 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
