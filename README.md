@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 ## Linked List
