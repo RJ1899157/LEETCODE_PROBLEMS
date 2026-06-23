@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
