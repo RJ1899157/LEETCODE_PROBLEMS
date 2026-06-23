@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 ## Bucket Sort
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
