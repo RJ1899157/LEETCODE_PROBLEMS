@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [1480-running-sum-of-1d-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
