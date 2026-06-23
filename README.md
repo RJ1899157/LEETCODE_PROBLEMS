@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
