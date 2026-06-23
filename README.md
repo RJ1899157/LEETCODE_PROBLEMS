@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [2235-add-two-integers](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
