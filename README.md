@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
