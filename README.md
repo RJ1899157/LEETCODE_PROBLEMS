@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 ## Bucket Sort
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
