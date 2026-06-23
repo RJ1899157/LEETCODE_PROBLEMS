@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [1480-running-sum-of-1d-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2469-convert-the-temperature) |
