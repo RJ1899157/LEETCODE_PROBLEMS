@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
