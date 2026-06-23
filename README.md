@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
