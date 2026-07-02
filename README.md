@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 ## Number Theory
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
