@@ -5,13 +5,14 @@ public:
         for (int i=0;i<sentences.size();i++){
             int count=1;
             for (int j=0;j<sentences[i].size();j++){
-                if (sentences[i][j]==' '){
+                if (sentences[i][j] == ' '){
                     count++;
                 }
             }
-            maxc=max(maxc,count);
+            maxc=max(count,maxc);
         }
         return maxc;
+        
         
     }
 };
