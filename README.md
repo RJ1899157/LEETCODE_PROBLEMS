@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -305,12 +307,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
