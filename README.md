@@ -288,11 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0933-number-of-recent-calls) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
