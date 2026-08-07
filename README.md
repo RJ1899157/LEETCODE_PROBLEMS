@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1512-number-of-good-pairs) |
