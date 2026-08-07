@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
