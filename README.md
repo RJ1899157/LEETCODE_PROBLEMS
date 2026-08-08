@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
