@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
