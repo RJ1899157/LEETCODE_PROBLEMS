@@ -420,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
