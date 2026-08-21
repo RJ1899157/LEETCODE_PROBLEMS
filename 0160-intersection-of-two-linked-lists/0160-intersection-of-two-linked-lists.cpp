@@ -12,29 +12,14 @@ public:
         if (!headA || !headB) return NULL;
         ListNode *p=headA;
         ListNode *q=headB;
-        int countA=0,countB=0;
-        while(p!=NULL){
-            p=p->next;
-            countA++;
-        }
-        while (q != NULL) {
-            countB++;
-            q = q->next;
-        }
-        p = headA;
-        q = headB;
-        if (countA > countB) {
-            for (int i = 0; i < countA - countB; i++) {
-                p = p->next;
-            }
-        } else {
-            for (int i = 0; i < countB - countA; i++) {
-                q = q->next;
-            }
-        }
-        while (p != q) {
-            p = p->next;
-            q = q->next;
+
+        while(p!=q){
+            if (p == nullptr) p = headB;
+            else p = p->next;
+
+            if (q == nullptr) q = headA;
+            else q = q->next;
+
         }
         return p;
 
