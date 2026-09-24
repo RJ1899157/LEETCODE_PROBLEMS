@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2942-find-words-containing-character) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
