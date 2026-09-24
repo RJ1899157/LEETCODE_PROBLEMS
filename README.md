@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
