@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
