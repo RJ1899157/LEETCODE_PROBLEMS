@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2942-find-words-containing-character) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
