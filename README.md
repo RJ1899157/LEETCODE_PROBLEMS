@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
