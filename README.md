@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
