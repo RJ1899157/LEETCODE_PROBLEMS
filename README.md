@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
