@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Radix Sort
 |  |
