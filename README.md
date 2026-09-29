@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
