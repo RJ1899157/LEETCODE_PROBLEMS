@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RJ1899157/LEETCODE_PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
